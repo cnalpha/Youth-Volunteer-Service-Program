@@ -13,6 +13,4 @@ int main()
   return 0;
 }
 ```
-這邊是隨便加的
-23
-22
+kobe
