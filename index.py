@@ -12,3 +12,4 @@ else:
 # 打印結果
 print(f"The generated number is {number}, which is {result}.")
 
+01
