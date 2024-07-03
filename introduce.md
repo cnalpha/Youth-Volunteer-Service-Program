@@ -17,7 +17,7 @@
 > hello, 這是引用
 ---
 - [x] 健身
-- [ ] 讀書 
+- [X] 讀書 
 ---
 EX1:
 | Left-Aligned  | Center Aligned  | Right Aligned |
